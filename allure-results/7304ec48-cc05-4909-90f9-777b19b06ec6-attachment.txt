@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#uploader_btn > span > span > span"
+}

@@ -1,0 +1,3 @@
+{
+  "text": "D:\\All Project\\Prolific cloud\\Image\\carousel-day.jpg"
+}
